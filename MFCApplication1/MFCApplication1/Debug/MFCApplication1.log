@@ -1,0 +1,15 @@
+﻿  FTPClient.cpp
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(63,46): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(128,29): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(157,28): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(220,35): warning C4244: “=”: 从“ULONGLONG”转换到“volatile long”，可能丢失数据
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(279,29): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(290,28): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(309,37): warning C4244: “=”: 从“LONGLONG”转换到“volatile long”，可能丢失数据
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(343,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(638,10): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(1197,6): warning C4101: “iIcon”: 未引用的局部变量
+F:\大三下\网络编程\repo\MFCApplication1\MFCApplication1\FTPClient.cpp(1197,13): warning C4101: “iIconSel”: 未引用的局部变量
+  ViewTree.cpp
+  正在生成代码...
+  MFCApplication1.vcxproj -> F:\大三下\网络编程\repo\MFCApplication1\Debug\MFCApplication1.exe
